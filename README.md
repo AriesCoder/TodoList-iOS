@@ -6,6 +6,6 @@
 
 - close the app, then navigate to the folder that save the app by using terminal. Type a command "pod install" to install Cocoapod
 
-- go to the folder that you save the app and click on the file ToDoList.workspace
+- go to the folder that you save the app and click on the file ToDoList.xcworkspace
 
 - choose a stimulation (works good on iPhone 13) and click "run"
